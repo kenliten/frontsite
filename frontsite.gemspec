@@ -11,6 +11,7 @@ Gem::Specification.new do |spec|
   spec.license     = "MIT"
 
   spec.metadata["homepage_uri"] = spec.homepage
+  spec.metadata["documentation_uri"] = "https://github.com/kenliten/frontsite"
   spec.metadata["source_code_uri"] = "https://github.com/kenliten/frontsite"
   spec.metadata["changelog_uri"] = "https://github.com/kenliten/frontsite/blob/main/CHANGELOG.md"
 
