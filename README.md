@@ -1,8 +1,5 @@
 # Frontsite
-Short description and motivation.
-
-## Usage
-How to use my plugin.
+Create a site for your app.
 
 ## Installation
 Add this line to your application's Gemfile:
@@ -19,6 +16,13 @@ $ bundle
 Or install it yourself as:
 ```bash
 $ gem install frontsite
+```
+
+## Usage
+
+Run the generator:
+```bash
+$ bin/rails g frontsite:install
 ```
 
 ## Contributing
