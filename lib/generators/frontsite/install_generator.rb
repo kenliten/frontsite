@@ -23,7 +23,7 @@ module Frontsite
       end
 
       def copy_views
-        copy_file "home.html.erb", "app/views/site/home.html.erb"
+        copy_file "index.html.erb", "app/views/site/index.html.erb"
         copy_file "about.html.erb", "app/views/site/about.html.erb"
         copy_file "products.html.erb", "app/views/site/products.html.erb"
         copy_file "pricing.html.erb", "app/views/site/pricing.html.erb"
